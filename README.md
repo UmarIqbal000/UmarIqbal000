@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umar%20Iqbal&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Builder%20%7C%20Creator&descAlignY=60&descAlign=50&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umar%20Iqbal&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20Full%20Stack%20Dev&descAlignY=60&descAlign=50&descSize=20" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future+with+Code+%F0%9F%9A%80;AI+%7C+Web+%7C+IoT+%7C+Cloud+%E2%98%81%EF%B8%8F;CS50+%7C+Harvard+Certified+%F0%9F%8E%93;18x+Google+Cloud+Skill+Badges+%F0%9F%8F%85;60%2C000%2B+LinkedIn+Impressions+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Building+AI+Solutions+That+Matter+%F0%9F%A4%96;3X+CS50+%7C+18X+GCP+Certified+%F0%9F%8F%85;VP+%40+ACM+Students+Chapter+%F0%9F%8E%93;Founder+%40+NinZae+%26+Umar+Iqbal+Store+%F0%9F%9A%80;Aspire+Leaders+Program+Alumni+%F0%9F%8C%8D;Not+just+learning+code+%E2%80%94+Shipping+Products." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=UmarIqbal000&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/UmarIqbal000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umariqbal000/)
 [![GitHub followers](https://img.shields.io/github/followers/UmarIqbal000?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/UmarIqbal000)
@@ -23,13 +22,22 @@
 
 ```typescript
 const umar = {
-  name       : "Umar Iqbal",
-  role       : "CSE Undergrad @ IILM University, Greater Noida",
-  currently  : ["CS50AI — Neural Networks & AI", "Aspire Leaders Program Fellow"],
-  building   : "NinZae — a tech content brand on LinkedIn",
-  superpower : "Turning ideas into real, deployed products",
-  funFact    : "Got 1st Place in Google Cloud Silver League with 15,320 pts 🥇",
-  reachMe    : "umariq.cse@gmail.com"
+  name        : "Umar Iqbal",
+  role        : "B.Tech CSE + DSBDA @ IILM University, Greater Noida",
+  titles      : [
+    "Data Scientist", "AI Researcher",
+    "Full Stack Dev with AI", "Vice President @ ACM Students Chapter"
+  ],
+  building    : ["NinZae 🏗️", "Umar Iqbal Store 🛒"],
+  certified   : ["3X CS50 Harvard ✅", "18X Google Cloud ☁️"],
+  community   : "Aspire Leaders Program Alumni 🌍",
+  techStack   : [
+    "Python", "Django", "Flask", "Flutter", "TensorFlow", "OpenCV",
+    "Google Cloud", "OpenAI API", "n8n", "Firebase", "Supabase",
+    "Claude Code", "HuggingFace", "Kaggle"
+  ],
+  openTo      : ["AI Research Collabs", "Data Science Projects", "Startup Ventures"],
+  motto       : "Not just learning code — Shipping Products. 🚢"
 };
 ```
 
@@ -42,11 +50,12 @@ const umar = {
 | 🥇 Achievement | 📊 Stats |
 |:---|:---|
 | Google Cloud Silver League | **1st Place — 15,320 pts** |
+| Google Cloud Certifications | **18x Skill Boost Badges** |
+| Harvard Certifications | **3X CS50 (CS50X + CS50P + CS50AI)** |
 | LinkedIn Impressions | **60,000+** |
 | LinkedIn Reach | **12,000+** |
 | Article Reads | **2,000+** |
-| Google Cloud Certifications | **18x Skill Boost Badges** |
-| Harvard Certifications | **CS50X + CS50P** |
+| NinZae Followers | **200+ Organic** |
 
 </div>
 
@@ -60,8 +69,8 @@ const umar = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Frontend & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,18 +78,24 @@ const umar = {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud, DevOps & Infrastructure
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🤖 AI / ML
+### 🤖 AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -116,40 +131,104 @@ const umar = {
 
 ---
 
-## 🎓 Experience & Roles
+## 💼 Experience
 
-<table>
+<table width="100%">
   <tr>
-    <td>🌟 <b>Open Source Contributor</b></td>
-    <td>GirlScript Summer of Code · Nov 2024 – Feb 2025</td>
+    <td>🏛️ <b>Vice President</b></td>
+    <td><b>ACM Students Chapter — IILM University</b></td>
+    <td><i>Oct 2025 – Present</i></td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Founder</b></td>
+    <td><b>NinZae</b> — Tech Content Brand</td>
+    <td><i>Oct 2024 – Present</i></td>
+  </tr>
+  <tr>
+    <td>🛒 <b>Founder</b></td>
+    <td><b>Umar Iqbal Store</b></td>
+    <td><i>Jul 2025 – Present</i></td>
+  </tr>
+  <tr>
+    <td>🌍 <b>ALP Alumni</b></td>
+    <td><b>Aspire Institute</b> — Leaders Program</td>
+    <td><i>May 2025 – Present</i></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Frontend AI Refiner</b></td>
+    <td><b>Outlier</b> — AI Chat Model Training</td>
+    <td><i>Jun – Jul 2025</i></td>
+  </tr>
+  <tr>
+    <td>📘 <b>CS50AI</b></td>
+    <td><b>Harvard University</b> — AI with Python ✅</td>
+    <td><i>Mar – Nov 2025</i></td>
+  </tr>
+  <tr>
+    <td>📘 <b>CS50P</b></td>
+    <td><b>Harvard University</b> — Python ✅</td>
+    <td><i>Jan – Mar 2025</i></td>
+  </tr>
+  <tr>
+    <td>📘 <b>CS50X</b></td>
+    <td><b>Harvard University</b> — Computer Science ✅</td>
+    <td><i>Oct 2024 – Jan 2025</i></td>
   </tr>
   <tr>
     <td>🌐 <b>IoT Developer</b></td>
-    <td>Stanford Online · Jan – Mar 2025 · Built WiFi tools on ESP8266</td>
+    <td><b>Stanford Online</b> — Intro to IoT</td>
+    <td><i>Jan – Mar 2025</i></td>
   </tr>
   <tr>
-    <td>🧠 <b>Co-founder & Creator</b></td>
-    <td>NinZae (Tech Brand) · Oct 2024 – Present · 200+ Organic Followers</td>
-  </tr>
-  <tr>
-    <td>📘 <b>CS50 Series</b></td>
-    <td>Harvard University · CS50X ✅ · CS50P ✅ · CS50AI 🔄</td>
-  </tr>
-  <tr>
-    <td>🌍 <b>Aspire Leaders Fellow</b></td>
-    <td>Aspire Institute · Cohort 2 · Mar 2025 – Present</td>
-  </tr>
-  <tr>
-    <td>🏫 <b>Class Representative</b></td>
-    <td>IILM University · Aug 2024 – Present</td>
-  </tr>
-  <tr>
-    <td>🧩 <b>Campus Ambassador</b></td>
-    <td>NSS IIT Delhi · Jan – Feb 2025</td>
+    <td>🌟 <b>Open Source Contributor</b></td>
+    <td><b>GirlScript Summer of Code</b> 2024</td>
+    <td><i>Nov 2024 – Feb 2025</i></td>
   </tr>
   <tr>
     <td>🇮🇳 <b>Campus Ambassador</b></td>
-    <td>MyGov India · Feb 2025 – Present</td>
+    <td><b>MyGov India</b> — IILM University</td>
+    <td><i>Feb 2025 – Jan 2026</i></td>
+  </tr>
+  <tr>
+    <td>🧩 <b>Campus Ambassador</b></td>
+    <td><b>NSS IIT Delhi</b> — Kaizen'25</td>
+    <td><i>Jan – Feb 2025</i></td>
+  </tr>
+  <tr>
+    <td>🏫 <b>Class Representative</b></td>
+    <td><b>IILM University</b></td>
+    <td><i>Aug 2024 – Present</i></td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table width="100%">
+  <tr>
+    <td>🎓</td>
+    <td><b>IILM University, Greater Noida</b></td>
+    <td>B.Tech CSE + Data Science & Big Data Analytics</td>
+    <td><i>2024 – 2028</i></td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><b>Harvard Online</b></td>
+    <td>CS50 Certifications — Computer Science</td>
+    <td><i>2024 – 2025</i></td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td><b>Modern Era Public School, Bijnor</b></td>
+    <td>Class 12 — PCM + CS — 73.4% (CBSE)</td>
+    <td><i>2023 – 2024</i></td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td><b>Modern Era Public School, Bijnor</b></td>
+    <td>Class 10 — 88.5% (CBSE)</td>
+    <td><i>2021 – 2022</i></td>
   </tr>
 </table>
 
@@ -159,10 +238,14 @@ const umar = {
 
 <div align="center">
 
-![Harvard](https://img.shields.io/badge/CS50X-Harvard_University-A31F34?style=flat-square&logo=harvard&logoColor=white)
-![Harvard](https://img.shields.io/badge/CS50P-Harvard_University-A31F34?style=flat-square&logo=harvard&logoColor=white)
+![Harvard](https://img.shields.io/badge/CS50X-Harvard_University-A31F34?style=flat-square)
+![Harvard](https://img.shields.io/badge/CS50P-Harvard_University-A31F34?style=flat-square)
+![Harvard](https://img.shields.io/badge/CS50AI-Harvard_University-A31F34?style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/18x_Cloud_Badges-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google](https://img.shields.io/badge/Intro_to_Generative_AI-Google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Mastering_Linux-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/GRC_Essentials-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/ChatGPT_for_PM-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
 ![Scaler](https://img.shields.io/badge/AI_Tutorial-Scaler_Academy-F48024?style=flat-square)
 ![Tata](https://img.shields.io/badge/Data_Visualization-Tata_Group-00518F?style=flat-square)
 ![Ford](https://img.shields.io/badge/EV_Engineering-Ford_Motors-003499?style=flat-square)
@@ -178,8 +261,8 @@ const umar = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@umariqbal000-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umariqbal000/)
 [![GitHub](https://img.shields.io/badge/GitHub-@UmarIqbal000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarIqbal000)
-[![Email](https://img.shields.io/badge/Email-umariq.cse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umariq.cse@gmail.com)
-[![Business](https://img.shields.io/badge/Business-umariqbal.business@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umariqbal.business@gmail.com)
+[![Email](https://img.shields.io/badge/Personal-umariq.cse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umariq.cse@gmail.com)
+[![NinZae](https://img.shields.io/badge/NinZae-info@ninzae.in-7c3aed?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:info@ninzae.in)
 
 </div>
 
