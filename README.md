@@ -49,13 +49,13 @@ const umar = {
 
 | 🥇 Achievement | 📊 Stats |
 |:---|:---|
-| Google Cloud Silver League | **1st Place — 15,320 pts** |
+| Google Cloud Silver League | **1st Place - 15,320 pts** |
 | Google Cloud Certifications | **18x Skill Boost Badges** |
 | Harvard Certifications | **3X CS50 (CS50X + CS50P + CS50AI)** |
-| LinkedIn Impressions | **60,000+** |
-| LinkedIn Reach | **12,000+** |
-| Article Reads | **2,000+** |
-| NinZae Followers | **200+ Organic** |
+| LinkedIn Impressions | **100,000+** |
+| LinkedIn Reach | **20,000+** |
+| Article Reads | **4,000+** |
+| NinZae Followers | **600+ Organic** |
 
 </div>
 
